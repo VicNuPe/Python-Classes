@@ -29,7 +29,6 @@ batman = Batman()
 thor = Thor()
 
 batman.fly()
-batman.land()
 
 thor.fly()
 thor.thunder()
